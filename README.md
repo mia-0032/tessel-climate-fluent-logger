@@ -15,7 +15,7 @@ $ tessel wifi -n YOUR_WIFI_SSID -p YOUR_WIFI_PASSWORD
 ```
 # setup this application.
 $ git clone git@github.com:mia-0032/tessel-climate-fluent-logger.git
-$ cd tessel-hygrothermograph-tweetbot
+$ cd tessel-climate-fluent-logger
 $ npm install
 ```
 
