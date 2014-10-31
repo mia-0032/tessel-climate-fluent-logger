@@ -1,0 +1,27 @@
+{
+  "name": "tessel-climate-fluent-logger",
+  "version": "1.0.0",
+  "description": "Send climate sensor data from Tessel to fluentd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mia-0032/tessel-climate-fluent-logger.git"
+  },
+  "keywords": [
+    "Tessel",
+    "fluent"
+  ],
+  "author": "Mia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mia-0032/tessel-climate-fluent-logger/issues"
+  },
+  "homepage": "https://github.com/mia-0032/tessel-climate-fluent-logger",
+  "dependencies": {
+    "climate-si7020": "~0.1.0",
+    "fluent-logger-node": "~0.0.3"
+  }
+}
