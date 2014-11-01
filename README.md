@@ -36,3 +36,7 @@ $ tessel run index.js
 ```
 $ tessel push index.js
 ```
+
+## example of fluentd.conf
+
+see `fluentd.sample.conf`.

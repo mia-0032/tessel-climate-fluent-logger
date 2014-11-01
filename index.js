@@ -22,7 +22,7 @@ climate.on('ready', function () {
         led1.toggle();
       });
     });
-  }, 5000);
+  }, 1000);
 });
 
 climate.on('error', function(err) {
