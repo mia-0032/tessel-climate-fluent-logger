@@ -3,6 +3,12 @@ tessel-climate-fluent-logger
 
 Send climate sensor data from [Tessel](https://tessel.io/) to [fluentd](http://www.fluentd.org/).
 
+## Overview
+
+See below slide.
+
+[http://www.slideshare.net/mia_0032/tessel-raspikey](http://www.slideshare.net/mia_0032/tessel-raspikey)
+
 ## Setup
 
 Connect [ClimateModule](https://tessel.io/modules#module-climate) to your Tessel port A.
